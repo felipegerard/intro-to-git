@@ -8,6 +8,8 @@
 #
 
 library(shiny)
+library(tidyverse)
+# allan agrego tidyverse porque shiny no es suficiente
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
